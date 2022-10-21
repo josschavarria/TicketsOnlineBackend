@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "C:\\Users\\Josselyn\\Desktop\\PG\\backend\\TicketsOnlineBackend\\TicketsOnlineBackend",
+"MaxTimeoutInSeconds": "120"
+}
+}
